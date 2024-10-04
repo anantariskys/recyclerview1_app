@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recycler1</string>
+    <string-array name="nim">
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+        <item>1007</item>
+        <item>1008</item>
+        <item>1009</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>Mac OS X</item>
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>Symbian</item>
+        <item>Blackberry</item>
+        <item>Sun OS</item>
+        <item>Solaris</item>
+    </string-array>
+
+</resources>
